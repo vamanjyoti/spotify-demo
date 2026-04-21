@@ -12,6 +12,8 @@ This project is a Spotify-inspired music streaming web application that allows u
 🛠️ Tech Stack
 
 Screenshot
+<img width="1912" height="865" alt="Screenshot 2026-04-21 164803" src="https://github.com/user-attachments/assets/27fc115b-d90d-4610-bd92-50cb0a9cd7d9" />
+
 
 
 
