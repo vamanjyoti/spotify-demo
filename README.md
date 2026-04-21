@@ -1,4 +1,4 @@
-# spotify-demo
+# Spotify-demo
 This project is a Spotify-inspired music streaming web application that allows users to play songs, browse playlists, and experience a modern music player interface. It replicates core UI/UX features of Spotify.
 
 🚀 Features
