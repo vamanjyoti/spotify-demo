@@ -2,6 +2,8 @@
 This project is a Spotify-inspired UI clone built to replicate the look and feel of a music streaming platform. It focuses on frontend design, layout, and user interface elements.
 
 🚀 Features
+
+
 🎧 Music player UI (design only)
 
 📂 Playlist layout
