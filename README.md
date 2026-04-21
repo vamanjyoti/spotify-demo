@@ -4,11 +4,17 @@ This project is a Spotify-inspired music streaming web application that allows u
 🚀 Features
 
 🎧 Play / Pause music
+
 ⏭️ Next / Previous track
+
 📂 Playlist display
+
 🎚️ Progress bar control
+
 🔊 Volume control 
+
 💻 Responsive design
+
 🛠️ Tech Stack
 
 Screenshots
