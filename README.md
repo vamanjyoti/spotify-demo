@@ -1,21 +1,16 @@
 # Spotify-demo
-This project is a Spotify-inspired music streaming web application that allows users to play songs, browse playlists, and experience a modern music player interface. It replicates core UI/UX features of Spotify.
+This project is a Spotify-inspired UI clone built to replicate the look and feel of a music streaming platform. It focuses on frontend design, layout, and user interface elements.
 
 🚀 Features
+🎧 Music player UI (design only)
 
-🎧 Play / Pause music
+📂 Playlist layout
 
-⏭️ Next / Previous track
+⏯️ Play/Pause buttons (UI only)
 
-📂 Playlist display
+🎚️ Progress bar (static)
 
-🎚️ Progress bar control
-
-🔊 Volume control 
-
-💻 Responsive design
-
-🛠️ Tech Stack
+🎨 Spotify-like design
 
 Screenshots
 
